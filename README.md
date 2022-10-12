@@ -1,16 +1,19 @@
 # patient_doctor_appointment
-User login/registration: Users have to first register themselves to login into the system.
 
-Medical History: System allows to update and view patient medical history.
+It is a website which would provide a portal through wihch patients can make appointmens to meet doctors online. Along with that, the website provides other features too :
 
-Doctor Search: System allows for doctor search through categories, name and location.
+-> User login/registration: Users have to first register themselves to login into the system.
 
-Appointment availability check: User can click on spaces to view the availability.
+-> Medical History: System allows to update and view patient medical history.
 
-Appointment booking online for date and time: Users can book appointment for their required date and time.
+-> Doctor Search: System allows for doctor search through categories, name and location.
 
-Automatic cost calculation: The system calculates the total cost incurred for parking based on the time that user has asked for booking.
+-> Appointment availability check: User can click on spaces to view the availability.
 
-Booking cancellation: User may even cancel their bookings by login into the system anytime.
+-> Appointment booking online for date and time: Users can book appointment for their required date and time.
 
-Email on appointment booking: When user is successful in appointment confirmation and ‘thank you’ email regarding the slot booked.
+-> Automatic cost calculation: The system calculates the total cost incurred for parking based on the time that user has asked for booking.
+
+-> Booking cancellation: User may even cancel their bookings by login into the system anytime.
+
+-> Email on appointment booking: When user is successful in appointment confirmation and ‘thank you’ email regarding the slot booked.
